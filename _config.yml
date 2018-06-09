@@ -10,10 +10,10 @@ locale                   : "en-US"
 title                    : "Systematic Biorobotics"
 title_separator          : "-"
 name                     : &name "Your Name"
-description              : &description "personal description"
+description              : &description "Postdoctoral Researcher"
 url                      : https://yishuiaoi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "yishuiaoi/yishuiaoi.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,8 +80,8 @@ analytics:
 author:
   name             : "Yongliang Yang"
   avatar           : "profile.png"
-  bio              : "Think as a poet, work as a bookpeeker."
-  location         : "Location"
+  bio              : "Postdoctoral researcher at Michigan State University, working on biorobotics, morphologenesis, and mechanobiology"
+  location         : "East Lansing, Michigan"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=5VbHis0AAAAJ&hl=en"
   email            : "ylyang@msu.edu"
